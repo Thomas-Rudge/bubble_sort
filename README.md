@@ -1,9 +1,9 @@
 # Bubble Sort
 
-## bubble_sort
+**bubble_sort**
 Takes an array and sorts it using the bubble sort algorithm.
 
-## bubble_sort_by
+**bubble_sort_by**
 Takes an array and a block, and bubble sorts the array using the logic in the block.
 
 
